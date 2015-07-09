@@ -1,0 +1,12 @@
+{
+"title":"Digit",
+"regularExpression":"\d",
+"description":"Digits",
+"examples":[
+	{"language":"Java",
+	"regex":"\\d",
+	"searchString":"jfhfuthfj8fkfkdk",
+	"matches":"8"
+	}
+]
+}
